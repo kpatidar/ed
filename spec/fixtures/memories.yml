@@ -1,0 +1,7 @@
+bday:
+  id: 1
+  title: Birth Day
+  content: My birht day
+  user_id: 1
+  created_at: <%= 1.days.ago.to_s :db %>
+

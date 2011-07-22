@@ -1,0 +1,22 @@
+<p id="notice"><%= notice %></p>
+<br><br><br>
+<center>
+ <table border="2">
+  <tr>
+     <td><b>Album name:</b></td><td><%= @album.album_name %></td>
+  </tr>
+  <tr>
+     <td><b>Album description:</b></td><td><%= @album.album_description %></td>
+  </tr>
+  <tr>
+     <td><b>User id:</b></td><td><%= @album.user_id %></td>
+  </tr>
+  <tr>
+     <td><b>album id:</b></td><td><%= @album.id %></td>
+  </tr>
+
+
+ </table>
+</center>
+<%= link_to 'Edit', edit_album_path(@album) %> |
+<%= link_to 'Back', my_albums_albums_path %>

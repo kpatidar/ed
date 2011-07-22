@@ -1,0 +1,19 @@
+<center>  
+<div class="row">
+<center><h2>Photo from <%= @photos.first.album.album_name %> album</h2></center>
+ <% @photos.each do |photo| %>
+    <div class="col1">
+       <%= link_to image_tag(photo.image.url(:original), :height => "200" , :width => "200") , album_photo_path(photo.album,photo) %>
+       <div class="cover">
+          <%= ( link_to "Set as cover photo", set_cover_photo_album_photo_path(photo.album,photo), confirm: 'Are you sure?') if photo.is_owner?(current_user) %>
+       </div><br>
+       <div class="link">
+          <%= link_to image_tag("/images/download_img.gif" ,:height => "20" , :width => "20" , :title => "Download photo"), download_album_photo_path(photo.album,photo) %>
+          <%= ( link_to image_tag("/images/delete_img.jpeg" ,:height => "20" , :width => "20" , :title => "Delete photo"), album_photo_path(photo.album,photo), confirm: 'Are you sure?', method: :delete ) if photo.is_owner?(current_user) or is_admin? %>
+       </div> 
+     </div>
+  <% end %>
+</div>
+</center>
+
+

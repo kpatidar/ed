@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  comment_name: MyString
+  comment_date: 2011-05-27
+  photo: 
+  user: 
+
+two:
+  comment_name: MyString
+  comment_date: 2011-05-27
+  photo: 
+  user: 

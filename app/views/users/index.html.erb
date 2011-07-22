@@ -1,0 +1,31 @@
+<%= render :partial =>'home/marquee',:locals=>{:message =>'EMPLOYEE INFORMATION'} %>
+<center>
+ <table border="2">
+  <tr>
+    <th>Login name</th>
+    <th>First name</th>
+    <th>Last name</th>
+    <th>Login role</th>
+    <th>Email</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+   <% @users.each do |user| %>
+   <tr>
+     <td><b><%= user.login_name %></b></td>
+     <td><b><%= user.first_name %></b></td>
+     <td><b><%= user.last_name %></b></td>
+     <td><b><%= user.login_role %></b></td>
+     <td><b><%= user.email_id %></b></td>
+     <td><%= link_to 'Show', user %></td>
+     <td><%= link_to 'Edit', edit_user_path(user) %></td>
+     <td><%= link_to 'Destroy', user, :confirm => 'Are you sure?', :method => :delete %></td>
+   </tr>
+  <% end %>
+ </table>
+</center>
+<br/>
+<%= will_paginate @users %>
+<%= link_to 'Back', :controller =>'users',:action => 'admin' %>

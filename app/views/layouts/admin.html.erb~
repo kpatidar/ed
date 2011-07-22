@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>EdAlbum</title>
+  <%= stylesheet_link_tag    "application" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+<a>Home</a> &nbps;&nbps; <a>Add employee</a><a>Update employee</a><a>View employee</a><a>Delete employee</a><a>Change password</a>.
+<%= yield %>
+</body>
+</html>

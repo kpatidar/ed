@@ -1,0 +1,20 @@
+<html>
+<head><title>Admin Page</title><head>
+<body bgcolor="Lime">
+  <center><font color="blue"><h1>ADMIN HOME PAGE</h1></font></center><br><br>
+<form method="post" action="/home/check_login">
+<a href="change_admin_password.html"><b><font color="Blue" size="3">Change password</font></b></a><br><br>
+  <b><center><br><br><br>
+              <a href="add_emp.html"><font color="Fuchsia" size="3">ADD NEW EMPLOYEE</font></a><br><br>
+              <a href="delete_emp.html"><font color="Fuchsia" size="3">DELETE EMPLOYEE</font></a><br><br>
+              <a href="search_emp.html"><font color="Fuchsia" size="3">SEARCH EMPLOYEE</font></a><br><br>
+              <a href="view_emp.html"><font color="Fuchsia" size="3">VIEW EMPLOYEE INFORMATION</font></a><br>
+
+              <a href="/home/logout">logout</a>
+  </center></b>
+
+</form>
+
+</body>
+</html>
+

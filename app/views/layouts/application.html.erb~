@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ED ALBUM</title>
+     <%= javascript_include_tag :defaults %>
+     <%= javascript_include_tag "application" %>
+     <%= javascript_include_tag "prototype" %>
+     <%= javascript_include_tag "rails" %>
+     <%= javascript_include_tag "login_page" %>
+     <%= stylesheet_link_tag "scaffold" %>
+     <%= stylesheet_link_tag "home" %>
+     <%=  %>
+
+   </head>
+   <div class="header">
+    <body>
+      <center>
+        <h1>
+          <br>ED ALBUM MANAGEMENT<br><br>
+        </h1>
+      </center>
+      <div class="main_link"><br>
+         <a href="/home/home_page">Home</a>
+         <a href="/home/login">Login</a><br><br>
+      </div>
+    </div>
+    <div class="middile">
+         <%= yield %>
+    </div>
+    <div class="footer"><br>
+      <div class="extra_link"><br>
+         <a href="#">About_Us</a>
+         <a href="#">Contact</a>
+         <a href="#">News</a><br><br></div>
+    </div> 
+
+   </body>
+  </div>
+ </html>

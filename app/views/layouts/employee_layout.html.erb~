@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+   <title>EdAlbum</title>
+         <%= stylesheet_link_tag "scaffold" %>
+         <%= javascript_include_tag "application" %>
+         <%= javascript_include_tag "prototype" %>
+         <%= javascript_include_tag "rails" %>
+         <%= stylesheet_link_tag "home" %>
+         <%= javascript_include_tag "change_password" %>
+         <%=  %>
+  </head>
+  <div class="header">
+  <body>
+      <center><h1><br>ED ALBUM MANAGEMENT<br></h1></center>
+      <div class="user_welcome">
+      <font color="blue"><h4>Welcome : <%= current_user.login_name %></h4></font>
+      </div>
+      <div class="main_link">
+         <br>
+         <a href="/users/employee">Home</a>
+         <a href="/albums/my_albums">My album</a>
+         <a href="/albums/all_albums">All album</a>
+         <a href="/users/change_password">Change Password</a>
+         <%= link_to 'Logout' ,logout_home_index_path, :method => :delete %>
+         <br><br><br>
+      </div>
+   </div>
+   <div class="middile">
+        <%= yield %>
+   </div>
+   <div class="footer">
+       <div class="extra_link"><br>
+         <a href="#">About Us</a>
+         <a href="#">Contact</a>
+         <a href="#">News</a>
+         <br><br>
+       </div>
+   </div>
+   </body>
+  </div>
+</html>
+

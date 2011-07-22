@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  login_name: MyString
+  login_password: MyString
+  first_name: MyString
+  last_name: MyString
+  login_role: MyString
+  email_id: MyString
+
+two:
+  login_name: MyString
+  login_password: MyString
+  first_name: MyString
+  last_name: MyString
+  login_role: MyString
+  email_id: MyString

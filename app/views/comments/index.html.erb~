@@ -1,0 +1,26 @@
+<h1>Listing comments</h1>
+
+<table border="2">
+  <tr>
+    <th>Comment message</th>
+    <th>Photo</th>
+    <th>User</th>
+    <th>SHOW</th>
+    <th>EDIT</th>
+    <th>DELETE</th>
+  </tr>
+
+<% @comments.each do |comment| %>
+  <tr>
+    <td><%= comment.comment_name %></td>
+    <td><%= comment.photo_id %></td>
+    <td><%= comment.user_id %></td>
+    <td><%= link_to 'Show' , album_photo_comment_path(comment.photo.album,comment.photo,comment)%></td>
+    <td><%= link_to 'Edit' , edit_album_photo_comment_path(comment.photo.album,comment.photo,comment)%></td>
+    <td><%= link_to 'Delete' , album_photo_comment_path(comment.photo.album,comment.photo,comment) , confirm: 'Are you sure?', method: :delete %></td>
+      </tr>
+<% end %>
+</table>
+
+<br />
+

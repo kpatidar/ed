@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+    <center>
+       <font color="blue"><h2><%= @photo.image_file_name %> from <%= (@photo.album).album_name%> album</h2></font>
+    </center>
+    <br>
+    <div class="show_photo">
+       <%= image_tag @photo.image.url(:original) %>
+    </div>
+    <div id="all_comment_content" class="all_comments">
+      <% @comments.each do |comment| %>
+	  <h5><font color="blue"><%= comment.user.name %></font> : <%= comment.comment_name %></h5>
+      <% end %>
+    </div>
+    <div class="comment" id="show">
+       <TEXTAREA id="photo_comment_text" name="comment_name" rows="2" cols="50"></TEXTAREA>
+       <input type="button" name="comment" value="comment" onclick="post_comment('<%= album_photo_comments_path(@photo.album,@photo) %>','show')">
+     </div>
+<br><br><br>
+<a href="#" onclick="show_comment('show');">New comment</a>  | <%= link_to 'Back', album_photos_path %>

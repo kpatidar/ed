@@ -1,0 +1,27 @@
+<center>
+ <table border="2">
+  <tr>
+    <th>cover photo</th>
+    <th>Album name</th>
+    <th>Album description</th>
+    <th>User id</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @albums.each do |album| %>
+   <tr>
+    <td><IMG src="/images/admin3.jpeg" height="130" width="130"></td>
+    <td><%= album.album_name %></td>
+    <td><%= album.album_description %></td>
+    <td><%= album.user.name %></td>
+    </tr>
+  <% end %>
+ </table>
+</center>
+
+<br><br><br>
+
+<%= link_to 'New Album', new_album_path %>

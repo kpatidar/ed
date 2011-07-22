@@ -1,0 +1,527 @@
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.6ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36m (0.3ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+Mysql::Error: Table 'ed_album_test.users' doesn't exist: SHOW FIELDS FROM `users`
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[36m (0.3ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+Mysql::Error: Table 'ed_album_test.users' doesn't exist: SHOW FIELDS FROM `users`
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[36m (0.3ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+Mysql::Error: Table 'ed_album_test.users' doesn't exist: SHOW FIELDS FROM `users`
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[36m (0.2ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+Mysql::Error: Table 'ed_album_test.users' doesn't exist: SHOW FIELDS FROM `users`
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[36m (0.2ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+Mysql::Error: Table 'ed_album_test.users' doesn't exist: SHOW FIELDS FROM `users`
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[36m (0.2ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+Mysql::Error: Table 'ed_album_test.users' doesn't exist: SHOW FIELDS FROM `users`
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[36m (0.2ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+Mysql::Error: Table 'ed_album_test.users' doesn't exist: SHOW FIELDS FROM `users`
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[36m (113.3ms)[0m  [1mCREATE TABLE `schema_migrations` (`version` varchar(255) NOT NULL) ENGINE=InnoDB[0m
+  [1m[35m (0.5ms)[0m  SHOW KEYS FROM `schema_migrations`
+  [1m[36m (258.2ms)[0m  [1mCREATE UNIQUE INDEX `unique_schema_migrations` ON `schema_migrations` (`version`)[0m
+  [1m[35m (0.3ms)[0m  SELECT `schema_migrations`.`version` FROM `schema_migrations` 
+Migrating to CreateAlbums (20110526084750)
+  [1m[36m (110.5ms)[0m  [1mCREATE TABLE `albums` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `album_name` varchar(255), `album_description` varchar(255), `user_id` int(11), `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB[0m
+  [1m[35m (0.5ms)[0m  SHOW KEYS FROM `albums`
+  [1m[36m (257.8ms)[0m  [1mCREATE INDEX `index_albums_on_user_id` ON `albums` (`user_id`)[0m
+  [1m[35m (65.8ms)[0m  INSERT INTO `schema_migrations` (`version`) VALUES ('20110526084750')
+Migrating to CreatePhotos (20110527052802)
+  [1m[36m (113.5ms)[0m  [1mCREATE TABLE `photos` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `album_id` int(11), `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB[0m
+  [1m[35m (0.5ms)[0m  SHOW KEYS FROM `photos`
+  [1m[36m (241.2ms)[0m  [1mCREATE INDEX `index_photos_on_album_id` ON `photos` (`album_id`)[0m
+  [1m[35m (57.6ms)[0m  INSERT INTO `schema_migrations` (`version`) VALUES ('20110527052802')
+Migrating to CreateComments (20110527062851)
+  [1m[36m (96.3ms)[0m  [1mCREATE TABLE `comments` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `comment_name` varchar(255), `comment_date` date, `photo_id` int(11), `user_id` int(11), `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB[0m
+  [1m[35m (0.5ms)[0m  SHOW KEYS FROM `comments`
+  [1m[36m (249.6ms)[0m  [1mCREATE INDEX `index_comments_on_photo_id` ON `comments` (`photo_id`)[0m
+  [1m[35m (0.5ms)[0m  SHOW KEYS FROM `comments`
+  [1m[36m (232.9ms)[0m  [1mCREATE INDEX `index_comments_on_user_id` ON `comments` (`user_id`)[0m
+  [1m[35m (65.9ms)[0m  INSERT INTO `schema_migrations` (`version`) VALUES ('20110527062851')
+Migrating to CreateUsers (20110527071315)
+  [1m[36m (110.8ms)[0m  [1mCREATE TABLE `users` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `login_name` varchar(255), `login_password` varchar(255), `first_name` varchar(255), `last_name` varchar(255), `login_role` varchar(255), `email_id` varchar(255), `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB[0m
+  [1m[35m (66.0ms)[0m  INSERT INTO `schema_migrations` (`version`) VALUES ('20110527071315')
+Migrating to CreateHomes (20110603095612)
+  [1m[36m (119.6ms)[0m  [1mCREATE TABLE `homes` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB[0m
+  [1m[35m (66.0ms)[0m  INSERT INTO `schema_migrations` (`version`) VALUES ('20110603095612')
+Migrating to AddAvatarColumnToPhotos (20110608132012)
+  [1m[36m (305.3ms)[0m  [1mALTER TABLE `photos` ADD `image_file_name` varchar(255)[0m
+  [1m[35m (343.4ms)[0m  ALTER TABLE `photos` ADD `image_content_type` varchar(255)
+  [1m[36m (225.2ms)[0m  [1mALTER TABLE `photos` ADD `image_file_size` int(11)[0m
+  [1m[35m (233.6ms)[0m  ALTER TABLE `photos` ADD `image_updated_at` datetime
+  [1m[36m (65.9ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20110608132012')[0m
+Migrating to AddCoverIdToAlbums (20110620082419)
+  [1m[35m (228.9ms)[0m  ALTER TABLE `albums` ADD `cover_photo_id` int(11)
+  [1m[36m (57.6ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20110620082419')[0m
+  [1m[35m (0.2ms)[0m  SELECT `schema_migrations`.`version` FROM `schema_migrations` 
+  [1m[36m (0.2ms)[0m  [1mSHOW KEYS FROM `albums`[0m
+  [1m[35m (0.1ms)[0m  SHOW KEYS FROM `comments`
+  [1m[36m (0.1ms)[0m  [1mSHOW KEYS FROM `homes`[0m
+  [1m[35m (0.1ms)[0m  SHOW KEYS FROM `photos`
+  [1m[36m (0.1ms)[0m  [1mSHOW KEYS FROM `users`[0m
+  [1m[36m (0.4ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.1ms)[0m  DELETE FROM `users`
+  [1m[36mFixture Insert (0.2ms)[0m  [1mINSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (1, 'kpatidar', '1246cbd00fe5239abd3e400141c6b4de', 'kapil', 'patidar', 'admin', 'kpatidar@systematixtechnocrates.com', '2011-07-12 13:29:29', '2011-07-12 13:29:29')[0m
+  [1m[35mFixture Insert (0.1ms)[0m  INSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (2, 'datoliya', '7ba1a1ad75b8b59e73cfe5f52910f551', 'dinesh', 'atoliya', 'employee', 'datoliya@systematixtechnocrates.com', '2011-07-12 13:29:29', '2011-07-12 13:29:29')
+  [1m[36m (73.6ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Load (0.8ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = ? LIMIT 1  [["id", 1]]
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36m (0.2ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.2ms)[0m  DELETE FROM `users`
+  [1m[36mFixture Insert (0.2ms)[0m  [1mINSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (1, 'kpatidar', '1246cbd00fe5239abd3e400141c6b4de', 'kapil', 'patidar', 'admin', 'kpatidar@systematixtechnocrates.com', '2011-07-12 13:30:28', '2011-07-12 13:30:28')[0m
+  [1m[35mFixture Insert (0.1ms)[0m  INSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (2, 'datoliya', '7ba1a1ad75b8b59e73cfe5f52910f551', 'dinesh', 'atoliya', 'employee', 'datoliya@systematixtechnocrates.com', '2011-07-12 13:30:28', '2011-07-12 13:30:28')
+  [1m[36m (63.8ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Load (0.7ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = ? LIMIT 1  [["id", 1]]
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36m (0.2ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.2ms)[0m  DELETE FROM `users`
+  [1m[36mFixture Insert (0.2ms)[0m  [1mINSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (1, 'kpatidar', '1246cbd00fe5239abd3e400141c6b4de', 'kapil', 'patidar', 'admin', 'kpatidar@systematixtechnocrates.com', '2011-07-12 13:33:36', '2011-07-12 13:33:36')[0m
+  [1m[35mFixture Insert (0.1ms)[0m  INSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (2, 'datoliya', '7ba1a1ad75b8b59e73cfe5f52910f551', 'dinesh', 'atoliya', 'employee', 'datoliya@systematixtechnocrates.com', '2011-07-12 13:33:36', '2011-07-12 13:33:36')
+  [1m[36m (91.7ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.3ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.2ms)[0m  DELETE FROM `users`
+  [1m[36mFixture Insert (0.3ms)[0m  [1mINSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (1, 'kpatidar', '1246cbd00fe5239abd3e400141c6b4de', 'kapil', 'patidar', 'admin', 'kpatidar@systematixtechnocrates.com', '2011-07-12 13:34:13', '2011-07-12 13:34:13')[0m
+  [1m[35mFixture Insert (0.1ms)[0m  INSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (2, 'datoliya', '7ba1a1ad75b8b59e73cfe5f52910f551', 'dinesh', 'atoliya', 'employee', 'datoliya@systematixtechnocrates.com', '2011-07-12 13:34:13', '2011-07-12 13:34:13')
+  [1m[36m (75.0ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.3ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.2ms)[0m  DELETE FROM `users`
+  [1m[36mFixture Insert (0.2ms)[0m  [1mINSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (1, 'kpatidar', '1246cbd00fe5239abd3e400141c6b4de', 'kapil', 'patidar', 'admin', 'kpatidar@systematixtechnocrates.com', '2011-07-12 13:35:28', '2011-07-12 13:35:28')[0m
+  [1m[35mFixture Insert (0.1ms)[0m  INSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (2, 'datoliya', '7ba1a1ad75b8b59e73cfe5f52910f551', 'dinesh', 'atoliya', 'employee', 'datoliya@systematixtechnocrates.com', '2011-07-12 13:35:28', '2011-07-12 13:35:28')
+  [1m[36m (78.3ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.4ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.2ms)[0m  DELETE FROM `users`
+  [1m[36mFixture Insert (0.2ms)[0m  [1mINSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (1, 'kpatidar', '1246cbd00fe5239abd3e400141c6b4de', 'kapil', 'patidar', 'admin', 'kpatidar@systematixtechnocrates.com', '2011-07-12 13:38:43', '2011-07-12 13:38:43')[0m
+  [1m[35mFixture Insert (0.1ms)[0m  INSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (2, 'datoliya', '7ba1a1ad75b8b59e73cfe5f52910f551', 'dinesh', 'atoliya', 'employee', 'datoliya@systematixtechnocrates.com', '2011-07-12 13:38:43', '2011-07-12 13:38:43')
+  [1m[36m (68.9ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Load (0.8ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = ? LIMIT 1  [["id", 1]]
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36m (0.2ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.2ms)[0m  DELETE FROM `users`
+  [1m[36mFixture Insert (0.2ms)[0m  [1mINSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (1, 'kpatidar', '1246cbd00fe5239abd3e400141c6b4de', 'kapil', 'patidar', 'admin', 'kpatidar@systematixtechnocrates.com', '2011-07-12 13:42:24', '2011-07-12 13:42:24')[0m
+  [1m[35mFixture Insert (0.1ms)[0m  INSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (2, 'datoliya', '7ba1a1ad75b8b59e73cfe5f52910f551', 'dinesh', 'atoliya', 'employee', 'datoliya@systematixtechnocrates.com', '2011-07-12 13:42:24', '2011-07-12 13:42:24')
+  [1m[36m (62.0ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Load (0.8ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = ? LIMIT 1  [["id", 1]]
+  Processing by UsersController#edit as HTML
+  Parameters: {"id"=>"1"}
+Redirected to http://test.host/home/login
+Completed 302 Found in 1ms
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36m (0.2ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.2ms)[0m  DELETE FROM `users`
+  [1m[36mFixture Insert (0.2ms)[0m  [1mINSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (1, 'kpatidar', '1246cbd00fe5239abd3e400141c6b4de', 'kapil', 'patidar', 'admin', 'kpatidar@systematixtechnocrates.com', '2011-07-12 13:44:41', '2011-07-12 13:44:41')[0m
+  [1m[35mFixture Insert (0.1ms)[0m  INSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (2, 'datoliya', '7ba1a1ad75b8b59e73cfe5f52910f551', 'dinesh', 'atoliya', 'employee', 'datoliya@systematixtechnocrates.com', '2011-07-12 13:44:41', '2011-07-12 13:44:41')
+  [1m[36m (70.8ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Load (0.8ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = ? LIMIT 1  [["id", 1]]
+  Processing by UsersController#edit as HTML
+  Parameters: {"id"=>"1"}
+Redirected to http://test.host/home/login
+Completed 302 Found in 1ms
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36m (0.2ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.2ms)[0m  DELETE FROM `users`
+  [1m[36mFixture Insert (0.2ms)[0m  [1mINSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (1, 'kpatidar', '1246cbd00fe5239abd3e400141c6b4de', 'kapil', 'patidar', 'admin', 'kpatidar@systematixtechnocrates.com', '2011-07-12 13:45:18', '2011-07-12 13:45:18')[0m
+  [1m[35mFixture Insert (0.1ms)[0m  INSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (2, 'datoliya', '7ba1a1ad75b8b59e73cfe5f52910f551', 'dinesh', 'atoliya', 'employee', 'datoliya@systematixtechnocrates.com', '2011-07-12 13:45:18', '2011-07-12 13:45:18')
+  [1m[36m (99.5ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Load (0.8ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = ? LIMIT 1  [["id", 1]]
+  Processing by UsersController#edit as HTML
+  Parameters: {"id"=>"1"}
+Redirected to http://test.host/home/login
+Completed 302 Found in 1ms
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36m (0.2ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.2ms)[0m  DELETE FROM `users`
+  [1m[36mFixture Insert (0.2ms)[0m  [1mINSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (1, 'kpatidar', '1246cbd00fe5239abd3e400141c6b4de', 'kapil', 'patidar', 'admin', 'kpatidar@systematixtechnocrates.com', '2011-07-12 13:48:09', '2011-07-12 13:48:09')[0m
+  [1m[35mFixture Insert (0.1ms)[0m  INSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (2, 'datoliya', '7ba1a1ad75b8b59e73cfe5f52910f551', 'dinesh', 'atoliya', 'employee', 'datoliya@systematixtechnocrates.com', '2011-07-12 13:48:09', '2011-07-12 13:48:09')
+  [1m[36m (78.6ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Load (0.8ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = ? LIMIT 1  [["id", 1]]
+  Processing by UsersController#edit as HTML
+  Parameters: {"id"=>"1"}
+Redirected to http://test.host/home/login
+Completed 302 Found in 1ms
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36m (0.3ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.2ms)[0m  DELETE FROM `users`
+  [1m[36mFixture Insert (0.2ms)[0m  [1mINSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (1, 'kpatidar', '1246cbd00fe5239abd3e400141c6b4de', 'kapil', 'patidar', 'admin', 'kpatidar@systematixtechnocrates.com', '2011-07-12 13:48:44', '2011-07-12 13:48:44')[0m
+  [1m[35mFixture Insert (0.1ms)[0m  INSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (2, 'datoliya', '7ba1a1ad75b8b59e73cfe5f52910f551', 'dinesh', 'atoliya', 'employee', 'datoliya@systematixtechnocrates.com', '2011-07-12 13:48:44', '2011-07-12 13:48:44')
+  [1m[36m (54.6ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Load (0.8ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = ? LIMIT 1  [["id", 1]]
+  Processing by UsersController#edit as HTML
+  Parameters: {"id"=>"1"}
+Redirected to http://test.host/home/login
+Completed 302 Found in 1ms
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36m (0.3ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.2ms)[0m  DELETE FROM `users`
+  [1m[36mFixture Insert (0.2ms)[0m  [1mINSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (1, 'kpatidar', '1246cbd00fe5239abd3e400141c6b4de', 'kapil', 'patidar', 'admin', 'kpatidar@systematixtechnocrates.com', '2011-07-12 13:52:24', '2011-07-12 13:52:24')[0m
+  [1m[35mFixture Insert (0.1ms)[0m  INSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (2, 'datoliya', '7ba1a1ad75b8b59e73cfe5f52910f551', 'dinesh', 'atoliya', 'employee', 'datoliya@systematixtechnocrates.com', '2011-07-12 13:52:24', '2011-07-12 13:52:24')
+  [1m[36m (81.4ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Load (0.8ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = ? LIMIT 1  [["id", 1]]
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36m (0.3ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.2ms)[0m  DELETE FROM `users`
+  [1m[36mFixture Insert (0.2ms)[0m  [1mINSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (1, 'kpatidar', '1246cbd00fe5239abd3e400141c6b4de', 'kapil', 'patidar', 'admin', 'kpatidar@systematixtechnocrates.com', '2011-07-12 13:52:53', '2011-07-12 13:52:53')[0m
+  [1m[35mFixture Insert (0.1ms)[0m  INSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (2, 'datoliya', '7ba1a1ad75b8b59e73cfe5f52910f551', 'dinesh', 'atoliya', 'employee', 'datoliya@systematixtechnocrates.com', '2011-07-12 13:52:53', '2011-07-12 13:52:53')
+  [1m[36m (75.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Load (0.8ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = ? LIMIT 1  [["id", 1]]
+  Processing by UsersController#edit as HTML
+  Parameters: {"id"=>1}
+Redirected to http://test.host/home/login
+Completed 302 Found in 1ms
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36m (0.3ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.2ms)[0m  DELETE FROM `users`
+  [1m[36mFixture Insert (0.2ms)[0m  [1mINSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (1, 'kpatidar', '1246cbd00fe5239abd3e400141c6b4de', 'kapil', 'patidar', 'admin', 'kpatidar@systematixtechnocrates.com', '2011-07-12 14:11:29', '2011-07-12 14:11:29')[0m
+  [1m[35mFixture Insert (0.1ms)[0m  INSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (2, 'datoliya', '7ba1a1ad75b8b59e73cfe5f52910f551', 'dinesh', 'atoliya', 'employee', 'datoliya@systematixtechnocrates.com', '2011-07-12 14:11:29', '2011-07-12 14:11:29')
+  [1m[36m (78.7ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Load (0.8ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = ? LIMIT 1  [["id", 1]]
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36m (0.3ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.2ms)[0m  DELETE FROM `users`
+  [1m[36mFixture Insert (0.2ms)[0m  [1mINSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (1, 'kpatidar', '1246cbd00fe5239abd3e400141c6b4de', 'kapil', 'patidar', 'admin', 'kpatidar@systematixtechnocrates.com', '2011-07-12 14:32:13', '2011-07-12 14:32:13')[0m
+  [1m[35mFixture Insert (0.1ms)[0m  INSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (2, 'datoliya', '7ba1a1ad75b8b59e73cfe5f52910f551', 'dinesh', 'atoliya', 'employee', 'datoliya@systematixtechnocrates.com', '2011-07-12 14:32:13', '2011-07-12 14:32:13')
+  [1m[36m (74.5ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Load (0.8ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = ? LIMIT 1  [["id", 1]]
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36m (0.3ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.2ms)[0m  DELETE FROM `users`
+  [1m[36mFixture Insert (0.2ms)[0m  [1mINSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (1, 'kpatidar', '1246cbd00fe5239abd3e400141c6b4de', 'kapil', 'patidar', 'admin', 'kpatidar@systematixtechnocrates.com', '2011-07-12 14:33:22', '2011-07-12 14:33:22')[0m
+  [1m[35mFixture Insert (0.1ms)[0m  INSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (2, 'datoliya', '7ba1a1ad75b8b59e73cfe5f52910f551', 'dinesh', 'atoliya', 'employee', 'datoliya@systematixtechnocrates.com', '2011-07-12 14:33:22', '2011-07-12 14:33:22')
+  [1m[36m (79.5ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.3ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.2ms)[0m  DELETE FROM `users`
+  [1m[36mFixture Insert (0.2ms)[0m  [1mINSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (1, 'kpatidar', '1246cbd00fe5239abd3e400141c6b4de', 'kapil', 'patidar', 'admin', 'kpatidar@systematixtechnocrates.com', '2011-07-12 14:34:20', '2011-07-12 14:34:20')[0m
+  [1m[35mFixture Insert (0.1ms)[0m  INSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (2, 'datoliya', '7ba1a1ad75b8b59e73cfe5f52910f551', 'dinesh', 'atoliya', 'employee', 'datoliya@systematixtechnocrates.com', '2011-07-12 14:34:20', '2011-07-12 14:34:20')
+  [1m[36m (76.6ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Load (0.7ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = ? LIMIT 1  [["id", 1]]
+  Processing by UsersController#edit as HTML
+  Parameters: {"id"=>1}
+Redirected to http://test.host/home/login
+Completed 302 Found in 1ms
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36m (0.3ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.2ms)[0m  DELETE FROM `users`
+  [1m[36mFixture Insert (0.2ms)[0m  [1mINSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (1, 'kpatidar', '1246cbd00fe5239abd3e400141c6b4de', 'kapil', 'patidar', 'admin', 'kpatidar@systematixtechnocrates.com', '2011-07-12 14:35:32', '2011-07-12 14:35:32')[0m
+  [1m[35mFixture Insert (0.1ms)[0m  INSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (2, 'datoliya', '7ba1a1ad75b8b59e73cfe5f52910f551', 'dinesh', 'atoliya', 'employee', 'datoliya@systematixtechnocrates.com', '2011-07-12 14:35:32', '2011-07-12 14:35:32')
+  [1m[36m (61.9ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Load (0.8ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = ? LIMIT 1  [["id", 1]]
+  Processing by UsersController#edit as HTML
+  Parameters: {"id"=>"1"}
+Redirected to http://test.host/home/login
+Completed 302 Found in 1ms
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36m (0.3ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.2ms)[0m  DELETE FROM `users`
+  [1m[36mFixture Insert (0.2ms)[0m  [1mINSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (1, 'kpatidar', '1246cbd00fe5239abd3e400141c6b4de', 'kapil', 'patidar', 'admin', 'kpatidar@systematixtechnocrates.com', '2011-07-12 14:38:58', '2011-07-12 14:38:58')[0m
+  [1m[35mFixture Insert (0.1ms)[0m  INSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (2, 'datoliya', '7ba1a1ad75b8b59e73cfe5f52910f551', 'dinesh', 'atoliya', 'employee', 'datoliya@systematixtechnocrates.com', '2011-07-12 14:38:58', '2011-07-12 14:38:58')
+  [1m[36m (64.3ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Load (0.4ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = ? LIMIT 1  [["id", 1]]
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36m (0.3ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.2ms)[0m  DELETE FROM `users`
+  [1m[36mFixture Insert (0.2ms)[0m  [1mINSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (1, 'kpatidar', '1246cbd00fe5239abd3e400141c6b4de', 'kapil', 'patidar', 'admin', 'kpatidar@systematixtechnocrates.com', '2011-07-12 14:45:37', '2011-07-12 14:45:37')[0m
+  [1m[35mFixture Insert (0.1ms)[0m  INSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (2, 'datoliya', '7ba1a1ad75b8b59e73cfe5f52910f551', 'dinesh', 'atoliya', 'employee', 'datoliya@systematixtechnocrates.com', '2011-07-12 14:45:37', '2011-07-12 14:45:37')
+  [1m[36m (71.0ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Load (0.7ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = ? LIMIT 1  [["id", 1]]
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36m (0.3ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.2ms)[0m  DELETE FROM `users`
+  [1m[36mFixture Insert (0.2ms)[0m  [1mINSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (1, 'kpatidar', '1246cbd00fe5239abd3e400141c6b4de', 'kapil', 'patidar', 'admin', 'kpatidar@systematixtechnocrates.com', '2011-07-12 14:46:26', '2011-07-12 14:46:26')[0m
+  [1m[35mFixture Insert (0.1ms)[0m  INSERT INTO `users` (`id`, `login_name`, `login_password`, `first_name`, `last_name`, `login_role`, `email_id`, `created_at`, `updated_at`) VALUES (2, 'datoliya', '7ba1a1ad75b8b59e73cfe5f52910f551', 'dinesh', 'atoliya', 'employee', 'datoliya@systematixtechnocrates.com', '2011-07-12 14:46:26', '2011-07-12 14:46:26')
+  [1m[36m (64.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Load (0.7ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = ? LIMIT 1  [["id", 1]]
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW TABLES
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[35mSQL (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW TABLES
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[35mSQL (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW TABLES
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[35mSQL (0.1ms)[0m  ROLLBACK
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW TABLES
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[35mSQL (0.1ms)[0m  ROLLBACK

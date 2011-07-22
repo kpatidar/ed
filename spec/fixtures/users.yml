@@ -1,0 +1,18 @@
+admin:
+  id: 1
+  login_name: kpatidar
+  login_password : 1246cbd00fe5239abd3e400141c6b4de
+  first_name : kapil
+  last_name : patidar
+  login_role : admin
+  email_id : kpatidar@systematixtechnocrates.com
+
+employee:
+  id: 2
+  login_name: datoliya
+  login_password : 7ba1a1ad75b8b59e73cfe5f52910f551
+  first_name : dinesh
+  last_name : atoliya
+  login_role : employee
+  email_id : datoliya@systematixtechnocrates.com
+

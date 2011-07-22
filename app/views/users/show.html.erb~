@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+<%= render :partial =>'home/marquee',:locals=>{:message =>'EMPLOYEE INFORMATION'} %>
+<center>
+   <table border="2">
+     <tr>
+         <td><b>Login name:</b></td><td><%= @user.login_name %></td>
+     </tr>
+     <tr>
+         <td><b>Login password:</b></td><td><%= @user.login_password %></td>
+     </tr>
+     <tr>
+         <td><b>First name:</b></td><td><%= @user.first_name %></td>
+     </tr>
+     <tr>
+         <td><b>Last name:</b></td><td><%= @user.last_name %></td>
+     </tr>
+         <td><b>Login role:</b></td><td><%= @user.login_role %></td>
+     </tr>
+     <tr>
+        <td><b>Email:</b></td><td><%= @user.email_id %></td>
+    </table>
+</center>
+<br><br><br><br>
+<%= link_to 'Back', :controller =>'users',:action => 'admin' %>

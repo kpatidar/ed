@@ -1,0 +1,4 @@
+<%= render :partial =>'home/marquee',:locals=>{:message =>'UPDATE EMPLOYEE INFORMATION'} %>
+<%= render 'form' %>
+<%= link_to 'Show', @user %>
+<%= link_to 'Back', users_path %>

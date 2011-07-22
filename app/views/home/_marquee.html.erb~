@@ -1,0 +1,5 @@
+<center>
+  <font color="blue"><b>
+       <h2><%= message %></h2>
+  </b></font>
+</center>

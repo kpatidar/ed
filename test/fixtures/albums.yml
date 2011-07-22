@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  album_name: MyString
+  album_description: MyString
+  user: 
+
+two:
+  album_name: MyString
+  album_description: MyString
+  user: 
