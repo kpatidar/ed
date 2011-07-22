@@ -3,7 +3,6 @@ class AlbumsController < ApplicationController
   layout :set_layout
 
   # GET /albums
-  # GET /albums.json
   def index
     @albums = Album.all
       respond_to do |format|
@@ -13,7 +12,6 @@ class AlbumsController < ApplicationController
   end
 
   # GET /albums/1
-  # GET /albums/1.json
   def show
     @album = Album.find(params[:id])
       respond_to do |format|
@@ -23,7 +21,6 @@ class AlbumsController < ApplicationController
   end
 
   # GET /albums/new
-  # GET /albums/new.json
   def new
     @album = Album.new
     respond_to do |format|
@@ -38,7 +35,6 @@ class AlbumsController < ApplicationController
   end
 
   # POST /albums
-  # POST /albums.json
   def create
     @album = current_user.albums.build(params[:album])
     respond_to do |format|
@@ -51,7 +47,6 @@ class AlbumsController < ApplicationController
   end
 
   # PUT /albums/1
-  # PUT /albums/1.json
   def update
     @album = current_user.albums.find(params[:id])
     if @album 
@@ -68,7 +63,6 @@ class AlbumsController < ApplicationController
   end
 
   # DELETE /albums/1
-  # DELETE /albums/1.json
   def destroy
     @album = Album.find(params[:id])
     @album.destroy
