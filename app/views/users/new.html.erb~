@@ -1,4 +1,0 @@
-<%= render :partial =>'home/marquee',:locals=>{:message =>'Add New Employee'} %>
-<%= render 'form' %>
-<br><br><br>
-<%= link_to 'Back', :controller =>'users',:action => 'admin' %>

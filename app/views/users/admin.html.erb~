@@ -1,2 +1,0 @@
-<%= render :partial =>'home/marquee',:locals=>{:message =>'ADMIN HOME PAGE'} %>
-<%= notice %>

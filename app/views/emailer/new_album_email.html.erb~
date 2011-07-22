@@ -1,3 +1,0 @@
-<H2>Hello <%= @reciever.name %> </h2>
-<br>
-<p><%= @memory.user.name %> has created new memory "<%= @memory.title %>": </p>

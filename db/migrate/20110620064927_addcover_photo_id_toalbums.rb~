@@ -1,9 +1,0 @@
-class AddcoverPhotoIdToalbums < ActiveRecord::Migration
-  def up
-    add_column :albums, :cover_photo_id, :integer
-  end
-
-  def down
-   remove_column :albums, :cover_photo_id
-  end
-end

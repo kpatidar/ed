@@ -1,2 +1,0 @@
-
-      <h5><font color="blue"><%= @comment.user.name %></font> : <%= @comment.comment_name %></h5>

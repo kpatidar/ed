@@ -1,4 +1,0 @@
-<%= render 'form' %>
-
-<%= link_to 'Show', @album %> |
-<%= link_to 'Back', my_albums_albums_path %>
